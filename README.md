@@ -11,7 +11,7 @@ This repository showcases structured SOPs, knowledge base articles, QA processes
 
 ## System Overview
 
-* SOPs → Standardized operational procedures
+* [SOPs](https://github.com/modulusofinfinity/arcadia-support-operations/blob/main/SOPs/SOP.md) → Standardized operational procedures
 * Knowledge Base → Customer-facing troubleshooting guides
 * QA → Quality assurance scoring and audit process
 * Training → Structured onboarding and skill development
